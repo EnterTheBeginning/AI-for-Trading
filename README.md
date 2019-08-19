@@ -1,7 +1,11 @@
-# AI-for-Trading
-Udacity NanoDegree Program
+# Machine Learning for Financial
+data processing, trading signal generation, portfolio management using L
+Deep Reinforcement Learning for trading strategies and more.
+
+Sources: Udacity NanoDegree Program=(https://www.udacity.com/course/ai-for-trading--nd880)
 
 ## Introduction
+
 Recurrent Neural Networks
 Three input and output for each neuron: Short-Term, Long-Term, Event
 
